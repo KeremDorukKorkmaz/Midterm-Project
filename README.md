@@ -1,6 +1,6 @@
 # Midterm-Project
 
-A game which tasks the player to collect waste falling from the top of the screen with the correct recycling bin. The game is created by using Swing and AWT
+A game which tasks the player to collect waste falling from the top of the screen with the correct recycling bin. The game is created by using Swing and AWT.
 
 ## Getting Started
 
